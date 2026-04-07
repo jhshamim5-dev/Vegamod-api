@@ -1,0 +1,5 @@
+{
+  "name": "MoviesMod API Scraper",
+  "description": "An API and frontend to scrape movie/show info and download links from MoviesMod.",
+  "requestFramePermissions": []
+}
